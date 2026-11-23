@@ -1,0 +1,501 @@
+[
+    [
+        "Website Profil Pribadi",
+        "Mudah",
+        "Membuat website biodata dan portofolio pribadi.",
+        [
+            "Foto profil",
+            "Biodata",
+            "Riwayat pendidikan",
+            "Kontak"
+        ],
+        [
+            "Gunakan HTML semantik",
+            "Atur layout dengan CSS",
+            "Tambahkan interaksi tombol dengan JavaScript"
+        ]
+    ],
+    [
+        "Website Profil Sekolah",
+        "Mudah",
+        "Membuat website informasi profil sekolah.",
+        [
+            "Identitas sekolah",
+            "Visi dan misi",
+            "Program keahlian",
+            "Kontak"
+        ],
+        [
+            "Navigasi halaman",
+            "Layout responsif",
+            "Menu interaktif"
+        ]
+    ],
+    [
+        "Website Perpustakaan",
+        "Sedang",
+        "Membuat katalog buku digital sederhana.",
+        [
+            "Daftar buku",
+            "Pencarian buku",
+            "Kategori",
+            "Detail buku"
+        ],
+        [
+            "Array objek JavaScript",
+            "Fitur pencarian",
+            "Filter kategori"
+        ]
+    ],
+    [
+        "Aplikasi Kalkulator",
+        "Mudah",
+        "Membuat kalkulator operasi matematika.",
+        [
+            "Penjumlahan",
+            "Pengurangan",
+            "Perkalian",
+            "Pembagian"
+        ],
+        [
+            "Event click",
+            "Operator matematika",
+            "Validasi input"
+        ]
+    ],
+    [
+        "Aplikasi Kasir Sederhana",
+        "Sedang",
+        "Membuat aplikasi transaksi penjualan.",
+        [
+            "Input barang",
+            "Harga",
+            "Jumlah",
+            "Total belanja"
+        ],
+        [
+            "Perhitungan otomatis",
+            "Array barang",
+            "Cetak transaksi"
+        ]
+    ],
+    [
+        "Aplikasi To Do List",
+        "Sedang",
+        "Membuat aplikasi pengelolaan tugas.",
+        [
+            "Tambah tugas",
+            "Edit tugas",
+            "Hapus tugas",
+            "Status selesai"
+        ],
+        [
+            "DOM manipulation",
+            "Event listener",
+            "LocalStorage"
+        ]
+    ],
+    [
+        "Website Toko Online",
+        "Sulit",
+        "Membuat tampilan toko online sederhana.",
+        [
+            "Daftar produk",
+            "Keranjang",
+            "Harga",
+            "Total belanja"
+        ],
+        [
+            "Array objek",
+            "Keranjang belanja",
+            "Responsive design"
+        ]
+    ],
+    [
+        "Aplikasi Absensi Siswa",
+        "Sedang",
+        "Membuat aplikasi pencatatan kehadiran siswa.",
+        [
+            "Nama siswa",
+            "Tanggal",
+            "Status hadir",
+            "Rekap"
+        ],
+        [
+            "Manipulasi tabel",
+            "Validasi form",
+            "Penyimpanan lokal"
+        ]
+    ],
+    [
+        "Aplikasi Nilai Siswa",
+        "Sedang",
+        "Membuat aplikasi pengolahan nilai siswa.",
+        [
+            "Nama siswa",
+            "Nilai tugas",
+            "UTS",
+            "UAS",
+            "Nilai akhir"
+        ],
+        [
+            "Operator matematika",
+            "Percabangan",
+            "Array"
+        ]
+    ],
+    [
+        "Website Berita",
+        "Mudah",
+        "Membuat portal berita sederhana.",
+        [
+            "Judul berita",
+            "Gambar",
+            "Kategori",
+            "Isi berita"
+        ],
+        [
+            "Grid layout",
+            "Card berita",
+            "Navigasi"
+        ]
+    ],
+    [
+        "Aplikasi Penghitung Diskon",
+        "Mudah",
+        "Membuat aplikasi perhitungan diskon belanja.",
+        [
+            "Harga awal",
+            "Persentase diskon",
+            "Potongan",
+            "Total bayar"
+        ],
+        [
+            "Input angka",
+            "Operator matematika",
+            "Validasi"
+        ]
+    ],
+    [
+        "Aplikasi Konversi Suhu",
+        "Mudah",
+        "Membuat aplikasi konversi suhu.",
+        [
+            "Celcius",
+            "Fahrenheit",
+            "Kelvin",
+            "Hasil konversi"
+        ],
+        [
+            "Fungsi JavaScript",
+            "Percabangan",
+            "Perhitungan"
+        ]
+    ],
+    [
+        "Website Galeri Foto",
+        "Mudah",
+        "Membuat galeri foto interaktif.",
+        [
+            "Daftar gambar",
+            "Kategori",
+            "Preview gambar",
+            "Navigasi"
+        ],
+        [
+            "CSS Grid",
+            "Responsive image",
+            "Event JavaScript"
+        ]
+    ],
+    [
+        "Aplikasi Pendaftaran Siswa",
+        "Sedang",
+        "Membuat form pendaftaran siswa baru.",
+        [
+            "Nama",
+            "NISN",
+            "Alamat",
+            "Jurusan",
+            "Validasi"
+        ],
+        [
+            "Form HTML",
+            "Validasi JavaScript",
+            "Tabel data"
+        ]
+    ],
+    [
+        "Aplikasi Data Karyawan",
+        "Sedang",
+        "Membuat aplikasi pengelolaan data karyawan.",
+        [
+            "Tambah karyawan",
+            "Edit data",
+            "Hapus data",
+            "Pencarian"
+        ],
+        [
+            "CRUD",
+            "Array objek",
+            "LocalStorage"
+        ]
+    ],
+    [
+        "Aplikasi Inventaris Barang",
+        "Sedang",
+        "Membuat aplikasi pencatatan inventaris.",
+        [
+            "Kode barang",
+            "Nama barang",
+            "Stok",
+            "Kategori"
+        ],
+        [
+            "CRUD",
+            "Filter data",
+            "Validasi input"
+        ]
+    ],
+    [
+        "Website Undangan Digital",
+        "Mudah",
+        "Membuat undangan acara berbasis web.",
+        [
+            "Nama acara",
+            "Tanggal",
+            "Lokasi",
+            "Ucapan"
+        ],
+        [
+            "CSS animation",
+            "Responsive layout",
+            "Interaksi tombol"
+        ]
+    ],
+    [
+        "Aplikasi Kuis Online",
+        "Sedang",
+        "Membuat aplikasi kuis pilihan ganda.",
+        [
+            "Pertanyaan",
+            "Pilihan jawaban",
+            "Skor",
+            "Hasil"
+        ],
+        [
+            "Array soal",
+            "Percabangan",
+            "Timer sederhana"
+        ]
+    ],
+    [
+        "Aplikasi Pengelola Keuangan",
+        "Sedang",
+        "Membuat aplikasi pencatatan keuangan.",
+        [
+            "Pemasukan",
+            "Pengeluaran",
+            "Saldo",
+            "Riwayat"
+        ],
+        [
+            "Perhitungan saldo",
+            "LocalStorage",
+            "Filter transaksi"
+        ]
+    ],
+    [
+        "Website Restoran",
+        "Mudah",
+        "Membuat website informasi dan menu restoran.",
+        [
+            "Profil restoran",
+            "Menu makanan",
+            "Harga",
+            "Kontak"
+        ],
+        [
+            "Card menu",
+            "Layout responsif",
+            "Navigasi"
+        ]
+    ],
+    [
+        "Aplikasi Pemesanan Tiket",
+        "Sulit",
+        "Membuat sistem pemesanan tiket sederhana.",
+        [
+            "Nama pemesan",
+            "Tujuan",
+            "Tanggal",
+            "Jumlah tiket"
+        ],
+        [
+            "Validasi form",
+            "Perhitungan harga",
+            "Konfirmasi pesanan"
+        ]
+    ],
+    [
+        "Aplikasi Rental Mobil",
+        "Sulit",
+        "Membuat aplikasi penyewaan mobil.",
+        [
+            "Data mobil",
+            "Harga sewa",
+            "Durasi",
+            "Total biaya"
+        ],
+        [
+            "CRUD",
+            "Perhitungan biaya",
+            "Validasi"
+        ]
+    ],
+    [
+        "Website Kursus Online",
+        "Sedang",
+        "Membuat website informasi kursus.",
+        [
+            "Daftar kursus",
+            "Materi",
+            "Instruktur",
+            "Pendaftaran"
+        ],
+        [
+            "Navigasi",
+            "Card kursus",
+            "Form pendaftaran"
+        ]
+    ],
+    [
+        "Aplikasi Catatan Digital",
+        "Sedang",
+        "Membuat aplikasi pencatatan digital.",
+        [
+            "Tambah catatan",
+            "Edit catatan",
+            "Hapus catatan",
+            "Cari"
+        ],
+        [
+            "DOM",
+            "LocalStorage",
+            "CRUD"
+        ]
+    ],
+    [
+        "Aplikasi Monitoring Stok",
+        "Sulit",
+        "Membuat aplikasi pemantauan stok barang.",
+        [
+            "Data barang",
+            "Stok masuk",
+            "Stok keluar",
+            "Laporan"
+        ],
+        [
+            "Perhitungan stok",
+            "CRUD",
+            "Filter data"
+        ]
+    ],
+    [
+        "Website Company Profile",
+        "Sedang",
+        "Membuat website profil perusahaan.",
+        [
+            "Tentang perusahaan",
+            "Layanan",
+            "Tim",
+            "Kontak"
+        ],
+        [
+            "Responsive design",
+            "CSS Flexbox",
+            "Form kontak"
+        ]
+    ],
+    [
+        "Aplikasi Penggajian",
+        "Sulit",
+        "Membuat aplikasi perhitungan gaji karyawan.",
+        [
+            "Gaji pokok",
+            "Tunjangan",
+            "Potongan",
+            "Gaji bersih"
+        ],
+        [
+            "Operator matematika",
+            "Percabangan",
+            "Validasi"
+        ]
+    ],
+    [
+        "Aplikasi Booking Lapangan",
+        "Sulit",
+        "Membuat aplikasi pemesanan lapangan olahraga.",
+        [
+            "Nama pemesan",
+            "Jadwal",
+            "Durasi",
+            "Biaya"
+        ],
+        [
+            "Validasi jadwal",
+            "Perhitungan biaya",
+            "Penyimpanan data"
+        ]
+    ],
+    [
+        "Website E-Learning",
+        "Sulit",
+        "Membuat website pembelajaran digital.",
+        [
+            "Daftar materi",
+            "Video",
+            "Latihan",
+            "Evaluasi"
+        ],
+        [
+            "Navigasi materi",
+            "Kuis interaktif",
+            "Progress belajar"
+        ]
+    ],
+    [
+        "Aplikasi Dashboard Penjualan",
+        "Sulit",
+        "Membuat dashboard informasi penjualan.",
+        [
+            "Total penjualan",
+            "Jumlah transaksi",
+            "Produk terlaris",
+            "Grafik"
+        ],
+        [
+            "Pengolahan array",
+            "Visualisasi data",
+            "Filter laporan"
+        ]
+    ],
+    [
+        "Aplikasi Manajemen Sekolah",
+        "Sulit",
+        "Membuat aplikasi pengelolaan data sekolah.",
+        [
+            "Data siswa",
+            "Data guru",
+            "Data kelas",
+            "Rekap data"
+        ],
+        [
+            "CRUD",
+            "Pencarian",
+            "Dashboard",
+            "LocalStorage"
+        ]
+    ]
+]
